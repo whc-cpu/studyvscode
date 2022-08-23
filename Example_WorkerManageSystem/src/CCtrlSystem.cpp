@@ -357,6 +357,7 @@ void CCtrlSystem::searchWorker() const
 	else
 	{
 		cout << "Error input! " << endl;
+		cout << "Error input! " << endl;
 	}
 
 	this->saveFile();
